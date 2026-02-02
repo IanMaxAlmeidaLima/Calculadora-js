@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+.background{
+    background-image: linear-gradient(40deg, rgb(21, 21, 152), rgb(13, 13, 201));
+    height: 100%;
+    color: white;
+}

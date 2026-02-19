@@ -49,6 +49,10 @@ button{
     margin-left: 6px;
 }
 
+button:hover{
+    background-color: rgb(62, 62, 62);
+}
+
 button#zero{
     width: 5.8rem;
 }
